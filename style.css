@@ -34,8 +34,8 @@ a{
     position: relative;
     transition: opacity 300ms ease;
 }
-a:hover{
-    opacity: 0.8;
+i:hover{
+    opacity: 0.7;
   
 }
 .link__hover-effect:after {
